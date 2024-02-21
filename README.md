@@ -8,19 +8,31 @@
 # Recommended lectures
 
 * Blogs
-  * [Demo CNN handwrite digits](https://adamharley.com/nn_vis/cnn/3d.html)
   * [Microscope](https://microscope.openai.com/models)
   * [What is MNIST? And why is it important?](https://selectstar-ai.medium.com/what-is-mnist-and-why-is-it-important-e9a269edbad5)
-  * [wolframalpha](https://www.wolframalpha.com/)
   * [Activation Functions in Neural Networks [12 Types & Use Cases]](https://www.v7labs.com/blog/neural-networks-activation-functions)
   * [Machine Learning for Beginners: An Introduction to Neural Networks](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9)
+  * [Todo lo que Necesitas Saber sobre el Descenso del Gradiente Aplicado a Redes Neuronales](https://medium.com/metadatos/todo-lo-que-necesitas-saber-sobre-el-descenso-del-gradiente-aplicado-a-redes-neuronales-19bdbb706a78)
+  * [An Interactive Tutorial on Numerical Optimization](https://www.benfrederickson.com/numerical-optimization/)
+  * [Why Momentum Really Works](https://distill.pub/2017/momentum/)
+  * [Stochastic gradient descent ](https://realpython.com/gradient-descent-algorithm-python/#:~:text=Stochastic%20gradient%20descent%20is%20an,an%20inexact%20but%20powerful%20technique.)
+  * [Implement Gradient Descent in Python](https://towardsdatascience.com/implement-gradient-descent-in-python-9b93ed7108d1)
+* Web apps | demos
+  * [Demo CNN handwrite digits](https://adamharley.com/nn_vis/cnn/3d.html)
+  * [wolframalpha](https://www.wolframalpha.com/)
+  * [Compute Derivate](https://www.desmos.com/calculator/l0puzw0zvm) 
 * Videos
   * [CPU vs GPU vs TPU vs DPU vs QPU](https://www.youtube.com/watch?v=r5NQecwZs1A)
   * [1.- Redes Neuronales: Fácil y desde cero](https://www.youtube.com/watch?v=jaEIv_E29sk&list=PLAnA8FVrBl8AWkZmbswwWiF8a_52dQ3JQ)
   * [Jugando con Redes Neuronales - Parte 2.5 | DotCSV](https://www.youtube.com/watch?v=FVozZVUNOOA&t=203s)
   * [¿Qué es una Red Neuronal? Parte 1 : La Neurona | DotCSV](https://www.youtube.com/watch?v=MRIv2IwFTPg&list=PL-Ogd76BhmcB9OjPucsnc2-piEE96jJDQ)
   * [¿Qué es una Red Neuronal? Parte 2 : La Red | DotCSV](https://www.youtube.com/watch?v=uwbHOpp9xkc&list=PL-Ogd76BhmcB9OjPucsnc2-piEE96jJDQ&index=3)
+  * [¿Qué es el Descenso del Gradiente? Algoritmo de Inteligencia Artificial | DotCSV](https://www.youtube.com/watch?v=A6FiCDoz8_4)
   * [Learn TensorFlow and Deep Learning fundamentals with Python (code-first introduction) Part 2/2](https://www.youtube.com/watch?v=ZUKz4125WNI)
   * [El cerebro de Stilwell](https://www.youtube.com/watch?v=rA5qnZUXcqo)
+  * [Descenso de gradiente, cómo aprenden las redes neuronales | Capítulo 2, Aprendizaje profundo](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 * Dataset
   * [MNIST digits classification dataset](https://keras.io/api/datasets/mnist/)
+* Papers
+  * [On the importance of initialization and momentum in deep learning](https://web.archive.org/web/20150922064556/https://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf)
+  *   
