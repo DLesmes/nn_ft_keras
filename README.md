@@ -12,5 +12,9 @@
   * [What is MNIST? And why is it important?](https://selectstar-ai.medium.com/what-is-mnist-and-why-is-it-important-e9a269edbad5)
 * Videos
   * [CPU vs GPU vs TPU vs DPU vs QPU](https://www.youtube.com/watch?v=r5NQecwZs1A)
+  * [1.- Redes Neuronales: Fácil y desde cero](https://www.youtube.com/watch?v=jaEIv_E29sk&list=PLAnA8FVrBl8AWkZmbswwWiF8a_52dQ3JQ)
+  * [Jugando con Redes Neuronales - Parte 2.5 | DotCSV](https://www.youtube.com/watch?v=FVozZVUNOOA&t=203s)
+  * [¿Qué es una Red Neuronal? Parte 1 : La Neurona | DotCSV](https://www.youtube.com/watch?v=MRIv2IwFTPg&list=PL-Ogd76BhmcB9OjPucsnc2-piEE96jJDQ)
+  * [El cerebro de Stilwell](https://www.youtube.com/watch?v=rA5qnZUXcqo)
 * Dataset
   * [MNIST digits classification dataset](https://keras.io/api/datasets/mnist/)
