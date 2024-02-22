@@ -27,10 +27,15 @@
   * [Jugando con Redes Neuronales - Parte 2.5 | DotCSV](https://www.youtube.com/watch?v=FVozZVUNOOA&t=203s)
   * [¿Qué es una Red Neuronal? Parte 1 : La Neurona | DotCSV](https://www.youtube.com/watch?v=MRIv2IwFTPg&list=PL-Ogd76BhmcB9OjPucsnc2-piEE96jJDQ)
   * [¿Qué es una Red Neuronal? Parte 2 : La Red | DotCSV](https://www.youtube.com/watch?v=uwbHOpp9xkc&list=PL-Ogd76BhmcB9OjPucsnc2-piEE96jJDQ&index=3)
+  * [¿Qué es una Red Neuronal? Parte 3 : Backpropagation | DotCSV](https://www.youtube.com/watch?v=eNIqz_noix8)
+  * [¿Qué es una Red Neuronal? Parte 3.5 : Las Matemáticas de Backpropagation | DotCSV](https://www.youtube.com/watch?v=M5QHwkkHgAA)
   * [¿Qué es el Descenso del Gradiente? Algoritmo de Inteligencia Artificial | DotCSV](https://www.youtube.com/watch?v=A6FiCDoz8_4)
   * [Learn TensorFlow and Deep Learning fundamentals with Python (code-first introduction) Part 2/2](https://www.youtube.com/watch?v=ZUKz4125WNI)
   * [El cerebro de Stilwell](https://www.youtube.com/watch?v=rA5qnZUXcqo)
   * [Descenso de gradiente, cómo aprenden las redes neuronales | Capítulo 2, Aprendizaje profundo](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+  * [CC6204 Deep Learning, Clase 05-2020: Introducción a Backpropagation](https://www.youtube.com/watch?v=1EUAoM1EhM0&list=PLBjZ-ginWc1e0_Dp4heHglsjJmacV_F20&index=7)
+  * [27. Backpropagation: Find Partial Derivatives](https://www.youtube.com/watch?v=lZrIPRnoGQQ)
+  * [5.1.2 Backpropagation Algorithm by Andrew Ng](https://www.youtube.com/watch?v=mO7BpWmzT78)
 * Dataset
   * [MNIST digits classification dataset](https://keras.io/api/datasets/mnist/)
 * Papers
