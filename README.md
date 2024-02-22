@@ -17,6 +17,7 @@
   * [Why Momentum Really Works](https://distill.pub/2017/momentum/)
   * [Stochastic gradient descent ](https://realpython.com/gradient-descent-algorithm-python/#:~:text=Stochastic%20gradient%20descent%20is%20an,an%20inexact%20but%20powerful%20technique.)
   * [Implement Gradient Descent in Python](https://towardsdatascience.com/implement-gradient-descent-in-python-9b93ed7108d1)
+  * [[Collection] 10 Best NumPy Cheat Sheets Every Python Coder Must Own](https://blog.finxter.com/collection-10-best-numpy-cheat-sheets-every-python-coder-must-own/)
 * Web apps | demos
   * [Demo CNN handwrite digits](https://adamharley.com/nn_vis/cnn/3d.html)
   * [wolframalpha](https://www.wolframalpha.com/)
