@@ -24,6 +24,7 @@
   * [Regularización Ridge, Lasso y Elastic Net con Python](https://cienciadedatos.net/documentos/py14-ridge-lasso-elastic-net-python.html)
   * [keras - Layer weight regularizers](https://keras.io/api/layers/regularizers/)
   * [Dropout layer](https://keras.io/api/layers/regularization_layers/dropout/)
+  * [embeddings](https://www.tensorflow.org/text/guide/word_embeddings?hl=es-419)
 * Web apps | demos
   * [Demo CNN handwrite digits](https://adamharley.com/nn_vis/cnn/3d.html)
   * [wolframalpha](https://www.wolframalpha.com/)
@@ -50,6 +51,7 @@
 * Dataset
   * [MNIST digits classification dataset](https://keras.io/api/datasets/mnist/)
   * [keras - imdb](https://keras.io/api/datasets/imdb/)
+  * [keras - Reuters newswire classification dataset](https://keras.io/api/datasets/reuters/)
 * Papers
   * [On the importance of initialization and momentum in deep learning](https://web.archive.org/web/20150922064556/https://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf)
   *   
