@@ -18,6 +18,7 @@
   * [Stochastic gradient descent ](https://realpython.com/gradient-descent-algorithm-python/#:~:text=Stochastic%20gradient%20descent%20is%20an,an%20inexact%20but%20powerful%20technique.)
   * [Implement Gradient Descent in Python](https://towardsdatascience.com/implement-gradient-descent-in-python-9b93ed7108d1)
   * [[Collection] 10 Best NumPy Cheat Sheets Every Python Coder Must Own](https://blog.finxter.com/collection-10-best-numpy-cheat-sheets-every-python-coder-must-own/)
+  * [keras losses](https://keras.io/api/losses/)
 * Web apps | demos
   * [Demo CNN handwrite digits](https://adamharley.com/nn_vis/cnn/3d.html)
   * [wolframalpha](https://www.wolframalpha.com/)
@@ -40,6 +41,7 @@
   * [5.1.2 Backpropagation Algorithm by Andrew Ng](https://www.youtube.com/watch?v=mO7BpWmzT78)
 * Dataset
   * [MNIST digits classification dataset](https://keras.io/api/datasets/mnist/)
+  * [keras - imdb](https://keras.io/api/datasets/imdb/)
 * Papers
   * [On the importance of initialization and momentum in deep learning](https://web.archive.org/web/20150922064556/https://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf)
   *   
