@@ -19,6 +19,7 @@
   * [Implement Gradient Descent in Python](https://towardsdatascience.com/implement-gradient-descent-in-python-9b93ed7108d1)
   * [[Collection] 10 Best NumPy Cheat Sheets Every Python Coder Must Own](https://blog.finxter.com/collection-10-best-numpy-cheat-sheets-every-python-coder-must-own/)
   * [keras losses](https://keras.io/api/losses/)
+  * [from df to tensor](https://www.tensorflow.org/tutorials/load_data/pandas_dataframe)
 * Web apps | demos
   * [Demo CNN handwrite digits](https://adamharley.com/nn_vis/cnn/3d.html)
   * [wolframalpha](https://www.wolframalpha.com/)
@@ -39,6 +40,8 @@
   * [CC6204 Deep Learning, Clase 05-2020: Introducción a Backpropagation](https://www.youtube.com/watch?v=1EUAoM1EhM0&list=PLBjZ-ginWc1e0_Dp4heHglsjJmacV_F20&index=7)
   * [27. Backpropagation: Find Partial Derivatives](https://www.youtube.com/watch?v=lZrIPRnoGQQ)
   * [5.1.2 Backpropagation Algorithm by Andrew Ng](https://www.youtube.com/watch?v=mO7BpWmzT78)
+  * [Ep. 7 Vectorizacion](https://www.youtube.com/watch?v=9IqWxJ1T57U)
+  * [🔴 INTRO al Natural Language Processing (NLP) #1 - ¡De PALABRAS a VECTORES!](https://www.youtube.com/watch?v=Tg1MjMIVArc)
 * Dataset
   * [MNIST digits classification dataset](https://keras.io/api/datasets/mnist/)
   * [keras - imdb](https://keras.io/api/datasets/imdb/)
