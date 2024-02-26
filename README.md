@@ -20,6 +20,10 @@
   * [[Collection] 10 Best NumPy Cheat Sheets Every Python Coder Must Own](https://blog.finxter.com/collection-10-best-numpy-cheat-sheets-every-python-coder-must-own/)
   * [keras losses](https://keras.io/api/losses/)
   * [from df to tensor](https://www.tensorflow.org/tutorials/load_data/pandas_dataframe)
+  * [Ridge regression](https://the-learning-machine.com/article/ml/ridge-regression)
+  * [Regularización Ridge, Lasso y Elastic Net con Python](https://cienciadedatos.net/documentos/py14-ridge-lasso-elastic-net-python.html)
+  * [keras - Layer weight regularizers](https://keras.io/api/layers/regularizers/)
+  * [Dropout layer](https://keras.io/api/layers/regularization_layers/dropout/)
 * Web apps | demos
   * [Demo CNN handwrite digits](https://adamharley.com/nn_vis/cnn/3d.html)
   * [wolframalpha](https://www.wolframalpha.com/)
@@ -42,6 +46,7 @@
   * [5.1.2 Backpropagation Algorithm by Andrew Ng](https://www.youtube.com/watch?v=mO7BpWmzT78)
   * [Ep. 7 Vectorizacion](https://www.youtube.com/watch?v=9IqWxJ1T57U)
   * [🔴 INTRO al Natural Language Processing (NLP) #1 - ¡De PALABRAS a VECTORES!](https://www.youtube.com/watch?v=Tg1MjMIVArc)
+  * [Las Redes Neuronales... ¿Aprenden o Memorizan? - Overfitting y Underfitting - Parte 1](https://www.youtube.com/watch?v=7-6X3DTt3R8)
 * Dataset
   * [MNIST digits classification dataset](https://keras.io/api/datasets/mnist/)
   * [keras - imdb](https://keras.io/api/datasets/imdb/)
