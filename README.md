@@ -19,12 +19,12 @@
   * [Implement Gradient Descent in Python](https://towardsdatascience.com/implement-gradient-descent-in-python-9b93ed7108d1)
   * [[Collection] 10 Best NumPy Cheat Sheets Every Python Coder Must Own](https://blog.finxter.com/collection-10-best-numpy-cheat-sheets-every-python-coder-must-own/)
   * [keras losses](https://keras.io/api/losses/)
+  * [keras - Layer weight regularizers](https://keras.io/api/layers/regularizers/)
+  * [keras - Dropout layer](https://keras.io/api/layers/regularization_layers/dropout/)
+  * [keras - optimizers](https://keras.io/api/optimizers/)
   * [from df to tensor](https://www.tensorflow.org/tutorials/load_data/pandas_dataframe)
   * [Ridge regression](https://the-learning-machine.com/article/ml/ridge-regression)
   * [Regularización Ridge, Lasso y Elastic Net con Python](https://cienciadedatos.net/documentos/py14-ridge-lasso-elastic-net-python.html)
-  * [keras - Layer weight regularizers](https://keras.io/api/layers/regularizers/)
-  * [Dropout layer](https://keras.io/api/layers/regularization_layers/dropout/)
-  * [embeddings](https://www.tensorflow.org/text/guide/word_embeddings?hl=es-419)
 * Web apps | demos
   * [Demo CNN handwrite digits](https://adamharley.com/nn_vis/cnn/3d.html)
   * [wolframalpha](https://www.wolframalpha.com/)
@@ -51,7 +51,6 @@
 * Dataset
   * [MNIST digits classification dataset](https://keras.io/api/datasets/mnist/)
   * [keras - imdb](https://keras.io/api/datasets/imdb/)
-  * [keras - Reuters newswire classification dataset](https://keras.io/api/datasets/reuters/)
 * Papers
   * [On the importance of initialization and momentum in deep learning](https://web.archive.org/web/20150922064556/https://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf)
   *   
