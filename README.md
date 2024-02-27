@@ -51,6 +51,8 @@
 * Dataset
   * [MNIST digits classification dataset](https://keras.io/api/datasets/mnist/)
   * [keras - imdb](https://keras.io/api/datasets/imdb/)
+  * [Boston Housing price regression dataset](https://keras.io/2.15/api/datasets/boston_housing/)
+  * [The Boston Housing Dataset](https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset)
 * Papers
   * [On the importance of initialization and momentum in deep learning](https://web.archive.org/web/20150922064556/https://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf)
   *   
