@@ -22,6 +22,7 @@
   * [keras - Layer weight regularizers](https://keras.io/api/layers/regularizers/)
   * [keras - Dropout layer](https://keras.io/api/layers/regularization_layers/dropout/)
   * [keras - optimizers](https://keras.io/api/optimizers/)
+  * [keras - dense](https://keras.io/api/layers/core_layers/dense/)
   * [from df to tensor](https://www.tensorflow.org/tutorials/load_data/pandas_dataframe)
   * [Ridge regression](https://the-learning-machine.com/article/ml/ridge-regression)
   * [Regularización Ridge, Lasso y Elastic Net con Python](https://cienciadedatos.net/documentos/py14-ridge-lasso-elastic-net-python.html)
